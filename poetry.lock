@@ -854,7 +854,7 @@ description = "read and write audio tags for many formats"
 name = "mutagen"
 optional = false
 python-versions = ">=3.5, <4"
-version = "1.44.0"
+version = "1.45.1"
 
 [[package]]
 category = "dev"
@@ -1633,7 +1633,7 @@ docs = ["sphinx", "jaraco.packaging (>=3.2)", "rst.linker (>=1.9)"]
 testing = ["jaraco.itertools", "func-timeout"]
 
 [metadata]
-content-hash = "4c70885eacf3356dbffa9cd9623bdff4298eccd24d07cfd49a9aa7a046e10f13"
+content-hash = "1da7daf72e00583f3997e7bf2f5a4bc6a279ab0aed24c25cf20a7ef94d313ac0"
 python-versions = "^3.6"
 
 [metadata.files]
@@ -2009,8 +2009,8 @@ more-itertools = [
     {file = "more_itertools-8.4.0-py3-none-any.whl", hash = "sha256:b78134b2063dd214000685165d81c154522c3ee0a1c0d4d113c80361c234c5a2"},
 ]
 mutagen = [
-    {file = "mutagen-1.44.0-py3-none-any.whl", hash = "sha256:1cfc9f40cc0c89f051e3f3dbd5d9057a193c98433cf6c95e02d7f5a395615c01"},
-    {file = "mutagen-1.44.0.tar.gz", hash = "sha256:56065d8a9ca0bc64610a4d0f37e2bd4453381dde3226b8835ee656faa3287be4"},
+    {file = "mutagen-1.45.1-py3-none-any.whl", hash = "sha256:9c9f243fcec7f410f138cb12c21c84c64fde4195481a30c9bfb05b5f003adfed"},
+    {file = "mutagen-1.45.1.tar.gz", hash = "sha256:6397602efb3c2d7baebd2166ed85731ae1c1d475abca22090b7141ff5034b3e1"},
 ]
 mypy = [
     {file = "mypy-0.782-cp35-cp35m-macosx_10_6_x86_64.whl", hash = "sha256:2c6cde8aa3426c1682d35190b59b71f661237d74b053822ea3d748e2c9578a7c"},
